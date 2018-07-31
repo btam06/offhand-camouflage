@@ -1,6 +1,6 @@
 {
     "name": "offhand-camouflage",
-    "version": "0.0.0",
+    "version": "0.1.0",
     "description": "Lazy load iframes",
     "author": "Avery Tam <btam06@gmail.com>",
     "license": "MIT",
