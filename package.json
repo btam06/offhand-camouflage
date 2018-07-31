@@ -1,0 +1,9 @@
+{
+    "name": "offhand-camouflage",
+    "version": "0.0.0",
+    "description": "Lazy load iframes",
+    "author": "Avery Tam <btam06@gmail.com>",
+    "license": "MIT",
+    "repository": "btam06/offhand-camouflage",
+    "main": "lib/camouflage.js"
+}
