@@ -10,7 +10,7 @@ The follow services are included by default:
 Services can be overwritten from the loader by adding a service object to the options object in the services array.
 
 Example:
-...
+```
 camouflage('body', { services: [{
     match: function(src) {
         [match logic]
@@ -20,7 +20,7 @@ camouflage('body', { services: [{
         [get thumbnail logic]
     }
 }]});
-...1
+```
 
 ## Usage
 Requiring returns a loader that takes a root element to search for iframes under (body to search the whole page) and options.
